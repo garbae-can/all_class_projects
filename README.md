@@ -1,1 +1,1 @@
-# 1st_class_project
+Web Design project 1
