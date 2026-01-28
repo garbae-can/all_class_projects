@@ -1,6 +1,6 @@
 Web Design 
 
 <ul>
-     <li> <a href="index.html" target="_blank">Intro to html lab 
-     <a href="HOME.html" target="_blank">html5 </li>
+     <liv> <a href="index.html" target="_blank"> Intro to html lab </liv>
+     <liv> <a href="HOME.html" target="_blank"> html5 </liv>
 </ul>
