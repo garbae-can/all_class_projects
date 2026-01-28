@@ -1,6 +1,7 @@
 Web Design project 1
 
 <ul>
-    <li><a href="project_one/index.html" target="_blank">Intro to html lab </a></li>
+    <li><a href="index.html" target="_blank">Intro to html lab</li>
+     <li><a href="HOME.html" target="_blank">html5</li>
 
 </ul>
