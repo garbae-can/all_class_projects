@@ -2,13 +2,20 @@ body  {
     background-color: mediumpurple;
 }
 
+img {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+}
+
 #container {
-    background-color: mintcream;
-    width: 450px;
+    background-color: rgb(255, 254, 248);
+    width: 650px;
     margin:20px auto;
     border: 2px soild black;
     padding: 20px;
     border-radius: 20px;
+    text-align: center;
 
 }
 
@@ -19,7 +26,8 @@ header {
 
 header h1 {
     color: mediumpurple;
-    font-size: 30px;
+    font-size: 60px;
+    margin: 0%;
     
 }
     
@@ -27,25 +35,36 @@ nav {
     text-align: center;
     border-top: 4px soild black;
     border-bottom: 4px soild black;
-    padding: 20px;
+    padding: 2px;
 }
 
 nav a {
-    color: cornflowerblue;
-    font-size: 30px;
+
+    text-align: center;
+    color: rgb(92, 16, 41);
+    font-size: 20px;
     margin: 0 20px;
 
 }
 
 nav a:hover {
-    color: colcdssgray;
+    color: deeppink;
     text-decoration: none;
+    text-align: center;
 }
 
 main h2{
+text-align: center;
 display: block;
 margin: 20px auto;
-width: 600px;
+width: 200px;
+
+}
+
+main h3{
+display: block;
+margin: 20px auto;
+width: 100px;
 
 }
 
